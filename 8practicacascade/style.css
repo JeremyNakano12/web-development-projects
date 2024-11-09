@@ -1,0 +1,24 @@
+
+.box{
+    padding: 20px;
+  margin: 10px;
+  border: 2px solid black;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+}
+
+#outer-box{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fafafa;
+  padding: 40px;
+}
+
+.innerbox {
+    padding: 15px;
+  margin-top: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
